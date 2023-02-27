@@ -1,0 +1,7 @@
+DROP TABLE titles CASCADE
+CREATE TABLE titles(
+	title_id VARCHAR(30) PRIMARY KEY NOT NULL,
+	title VARCHAR(30) NOT NULL
+);
+SELECT *
+FROM titles
