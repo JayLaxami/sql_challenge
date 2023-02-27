@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # sql_challenge
 
 Folder name EmployeeSQL is created to save all the files in it.
@@ -15,5 +12,5 @@ Primary keys, foreign key and composite keys were used to combine tables to iden
 
 Analysis of data is done using select statement and saved as queries.sql file.
 
-All individual table are also saved in folder called tables.
->>>>>>> 61f72b380a1f3834445638685285b603ca8308a8
+All individual table are also saved in folder called individual tables.
+
